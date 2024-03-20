@@ -1,1 +1,1 @@
-# static
+<p align="center" style="font-size: 30px;">self-use resource repository</p>
